@@ -1,4 +1,4 @@
 baseURL = 'https://jihyun22.github.io/'
-languageCode = 'kr'
+languageCode = 'ko'
 title = 'My New Hugo Site'
-theme = "hugo-theme-stack"
+theme = "jihyun"
