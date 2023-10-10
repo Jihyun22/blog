@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/Jihyun22/Jihyun22.github.io
 	branch = master
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
